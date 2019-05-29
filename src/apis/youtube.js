@@ -1,5 +1,5 @@
 import axios from "axios";
-import keys from "../../config/keys";
+import keys from "../config/keys";
 
 const KEY = keys.YTKey;
 
